@@ -2,6 +2,8 @@
 
 **ARAIL** has been accepted for publication in Information Sciences.
 
+Author：DAYONG XU, FEI ZHU, QUAN LIU, PEIYAO ZHAO
+
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025521001213)   [Code](https://github.com/Tree12323/ARAIL-Learning-to-Rank-from-Incomplete-Demonstrations/tree/main/script)
 
 ## Abstract
@@ -33,7 +35,7 @@ A learning agent in reinforcement learning is supposed to sense the state of the
 
 <img src="README.assets/image-20210224190548823.png" alt="image-20210224190548823" style="zoom: 25%;" />
 
-![image-20210224190622271](README.assets/image-20210224190622271-1614241555139.png)
+<img src="README.assets/image-20210224190622271-1614241555139.png" alt="image-20210224190622271" style="zoom:67%;" />
 
 Reward curves of TRPO(Cyan), State-GAIL(Magenta), GAIL(Red), AGAIL(Blue, incomplete ratio from left to right: 0.00, 0.25, 0.50, 0.75) and ARAIL(Green, incomplete ratio from left to right: 0.00, 0.25, 0.50, 0.75, Margin:0.50) in the tasks of Cart- Pole, Hopper, InvertedPendulum, InvertedDoublePendulum, and Humanoid(from top to bottom).
 
